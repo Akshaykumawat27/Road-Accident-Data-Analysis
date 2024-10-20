@@ -1,28 +1,26 @@
-# Road-Accident-Data-Analysis
-Project Title: Road Accident Dashboard (2021-2022)
+🚗 Road Accident Dashboard (2021-2022) 📊
+Project Overview:
+This Power BI project provides an interactive Road Accident Dashboard using data from 2021 and 2022, offering valuable insights into accident severity, casualties, and trends. The goal is to help stakeholders make data-driven decisions to improve road safety and prioritize resources effectively.
 
-Project Overview: This project focuses on building a Road Accident Dashboard using Power BI to analyze accident data from 2021 and 2022. The goal is to provide key stakeholders with actionable insights regarding accident severity, casualties, and trends, helping to enhance road safety and prioritize resources.
-
-Key Metrics and Visualizations:
-
+🔑 Key Metrics and Visualizations:
 Primary KPIs:
-Total Casualties and Accidents for the current year.
-Year-over-Year (YoY) Growth in total casualties and accidents.
-Casualties by Accident Severity with YoY growth.
+Total Accidents & Casualties for the current year
+Year-over-Year (YoY) Growth in accidents and casualties
+Casualties by Accident Severity with YoY growth analysis
 Secondary KPIs:
-Total casualties by Vehicle Type for the current year.
-Monthly Trend: Visualizing a comparison of casualties for the current year vs. the previous year.
-Casualties by Road Type: Analysis of total casualties by different road types.
-Casualties by Area/Location & by Day/Night for the current year.
-Total Casualties and Accidents by Location: Insight into location-based accident statistics.
-Features:
+Casualties by Vehicle Type for the current year
+Monthly Trends: Compare casualties across 2021 vs. 2022
+Casualties by Road Type
+Analysis by Area/Location & Time (Day/Night)
+Location-based Accident Statistics: Total casualties and accidents by location
 
-Interactive Filters: Allow users to explore accident data by time, location, and accident type.
-YoY Growth Calculations: Show trends and growth in accident statistics over time.
-Visual Comparisons: Use line and bar charts to illustrate differences between 2021 and 2022.
-Skills Utilized:
+🚀 Features:
+Interactive Filters: Explore data by time, location, accident type
+YoY Growth Calculations: Visualize trends over time
+Visual Comparisons: Line and bar charts to illustrate differences between 2021 and 2022
 
-Data Modeling: Structured accident data for trend analysis.
-DAX Calculations: Implemented for YoY growth metrics and accident statistics.
-Power BI Visualizations: Provided clear, actionable insights through interactive dashboards.
-This dashboard is a critical tool for authorities to monitor accident trends and make data-driven decisions to enhance road safety and reduce casualties.
+🛠️ Skills Utilized:
+Data Modeling: Structured accident data to reveal trends
+DAX Calculations: Created custom metrics for YoY growth and accident severity analysis
+Power BI Visualizations: Delivered clear, interactive dashboards for actionable insights
+This dashboard serves as a critical tool for authorities and organizations aiming to enhance road safety and reduce casualties through real-time data analysis.
